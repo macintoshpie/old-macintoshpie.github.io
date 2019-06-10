@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on Ted Summer</title>
+    <link>https://macintoshpie.github.io/tags/bash/</link>
+    <description>Recent content in bash on Ted Summer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>ted.summer2@google.com (Ted)</managingEditor>
+    <webMaster>ted.summer2@google.com (Ted)</webMaster>
+    <lastBuildDate>Sun, 09 Jun 2019 13:26:15 -0500</lastBuildDate>
+    
+	<atom:link href="https://macintoshpie.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>jq: group, unique, average</title>
+      <link>https://macintoshpie.github.io/post/jq-picoctf/</link>
+      <pubDate>Sun, 09 Jun 2019 13:26:15 -0500</pubDate>
+      <author>ted.summer2@google.com (Ted)</author>
+      <guid>https://macintoshpie.github.io/post/jq-picoctf/</guid>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve been running through &lt;a href=&#34;https://2018game.picoctf.com/&#34;&gt;picoCTF 2018&lt;/a&gt; and saw this problem that can be solved with some cool stuff from &lt;a href=&#34;https://stedolan.github.io/jq/&#34;&gt;jq&lt;/a&gt; (a handy JSON processor for the command line).&lt;/p&gt;
+
+&lt;p&gt;Question: What is the number of unique destination IPs a file is sent to, on average?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
