@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ted.summer2@google.com (Ted)</managingEditor>
     <webMaster>ted.summer2@google.com (Ted)</webMaster>
-    <lastBuildDate>Sun, 09 Jun 2019 13:26:15 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 13:26:35 -0600</lastBuildDate>
     
 	<atom:link href="https://macintoshpie.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>jq: looping</title>
+      <link>https://macintoshpie.github.io/post/jq-loop/</link>
+      <pubDate>Mon, 16 Sep 2019 13:26:35 -0600</pubDate>
+      <author>ted.summer2@google.com (Ted)</author>
+      <guid>https://macintoshpie.github.io/post/jq-loop/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a quick example of using jq in a for loop. jq has some nice functional stuff built in such as &lt;code&gt;map()&lt;/code&gt;, but sometimes you need to do some fancy stuff with the data.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>jq: group, unique, average</title>
