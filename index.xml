@@ -56,7 +56,7 @@
       <author>ted.summer2@google.com (Ted)</author>
       <guid>https://www.tedsummer.com/personal-projects/</guid>
       <description>I like to build simple apps and tools. A 🏗 in the title indicates a work in progress.
-🏗 liztz Vue A lightweight note taking application centered around lists.
+🏗 liztz Vue, Netlify, AWS Lambda A lightweight note taking application centered around lists.
 🏗 GitHub Actions by Example GitHub Actions, Golang GitHub Actions by Example is an introduction to GitHub&amp;rsquo;s Actions and Workflows through annotated example YAML files. I wrote a custom HTML generator in Golang to generate the documentation from special YAML files.</description>
     </item>
     
