@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ted Summer</title>
-    <link>https://macintoshpie.github.io/post/</link>
+    <link>https://www.tedsummer.com/post/</link>
     <description>Recent content in Posts on Ted Summer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ted.summer2@google.com (Ted)</managingEditor>
     <webMaster>ted.summer2@google.com (Ted)</webMaster>
     <lastBuildDate>Sat, 11 Jul 2020 13:26:35 -0600</lastBuildDate>
     
-	<atom:link href="https://macintoshpie.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.tedsummer.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>aws lambda: local server</title>
-      <link>https://macintoshpie.github.io/post/lambda-local/</link>
+      <link>https://www.tedsummer.com/post/lambda-local/</link>
       <pubDate>Sat, 11 Jul 2020 13:26:35 -0600</pubDate>
       <author>ted.summer2@google.com (Ted)</author>
-      <guid>https://macintoshpie.github.io/post/lambda-local/</guid>
+      <guid>https://www.tedsummer.com/post/lambda-local/</guid>
       <description>I&amp;rsquo;ve been messing around with a project which uses netlify and lambda (it&amp;rsquo;s free and static sites are hawt). I basically have one main lambda function which handles api requests built in golang. It&amp;rsquo;s pretty awesome how easy netlify lets you build and deploy, but I wanted to a nice local setup for building and testing my api server. I think aws has its own tooling for this, but I didn&amp;rsquo;t really want to start fooling with it, so I came up with this.</description>
     </item>
     
     <item>
       <title>jq: looping</title>
-      <link>https://macintoshpie.github.io/post/jq-loop/</link>
+      <link>https://www.tedsummer.com/post/jq-loop/</link>
       <pubDate>Mon, 16 Sep 2019 13:26:35 -0600</pubDate>
       <author>ted.summer2@google.com (Ted)</author>
-      <guid>https://macintoshpie.github.io/post/jq-loop/</guid>
+      <guid>https://www.tedsummer.com/post/jq-loop/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a quick example of using jq in a for loop. jq has some nice functional stuff built in such as &lt;code&gt;map()&lt;/code&gt;, but sometimes you need to do some fancy stuff with the data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>jq: group, unique, average</title>
-      <link>https://macintoshpie.github.io/post/jq-picoctf/</link>
+      <link>https://www.tedsummer.com/post/jq-picoctf/</link>
       <pubDate>Sun, 09 Jun 2019 13:26:15 -0500</pubDate>
       <author>ted.summer2@google.com (Ted)</author>
-      <guid>https://macintoshpie.github.io/post/jq-picoctf/</guid>
+      <guid>https://www.tedsummer.com/post/jq-picoctf/</guid>
       <description>&lt;p&gt;Recently I&amp;rsquo;ve been running through &lt;a href=&#34;https://2018game.picoctf.com/&#34;&gt;picoCTF 2018&lt;/a&gt; and saw this problem that can be solved with some cool stuff from &lt;a href=&#34;https://stedolan.github.io/jq/&#34;&gt;jq&lt;/a&gt; (a handy JSON processor for the command line).&lt;/p&gt;
 &lt;p&gt;Question: What is the number of unique destination IPs a file is sent to, on average?&lt;/p&gt;</description>
     </item>

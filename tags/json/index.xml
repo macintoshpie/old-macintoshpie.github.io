@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JSON on Ted Summer</title>
-    <link>https://macintoshpie.github.io/tags/json/</link>
+    <link>https://www.tedsummer.com/tags/json/</link>
     <description>Recent content in JSON on Ted Summer</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ted.summer2@google.com (Ted)</managingEditor>
     <webMaster>ted.summer2@google.com (Ted)</webMaster>
     <lastBuildDate>Mon, 16 Sep 2019 13:26:35 -0600</lastBuildDate>
     
-	<atom:link href="https://macintoshpie.github.io/tags/json/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.tedsummer.com/tags/json/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>jq: looping</title>
-      <link>https://macintoshpie.github.io/post/jq-loop/</link>
+      <link>https://www.tedsummer.com/post/jq-loop/</link>
       <pubDate>Mon, 16 Sep 2019 13:26:35 -0600</pubDate>
       <author>ted.summer2@google.com (Ted)</author>
-      <guid>https://macintoshpie.github.io/post/jq-loop/</guid>
+      <guid>https://www.tedsummer.com/post/jq-loop/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a quick example of using jq in a for loop. jq has some nice functional stuff built in such as &lt;code&gt;map()&lt;/code&gt;, but sometimes you need to do some fancy stuff with the data.&lt;/p&gt;</description>
     </item>
     
