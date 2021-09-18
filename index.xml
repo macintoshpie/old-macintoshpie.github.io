@@ -50,7 +50,19 @@
     </item>
     
     <item>
-      <title>Résumé</title>
+      <title>Personal Projects</title>
+      <link>https://macintoshpie.github.io/personal-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ted.summer2@google.com (Ted)</author>
+      <guid>https://macintoshpie.github.io/personal-projects/</guid>
+      <description>A 🏗 in the title indicates a work in progress.
+🏗 liztz Vue A lightweight note taking application centered around lists.
+🏗 GitHub Actions by Example GitHub Actions, Golang GitHub Actions by Example is an introduction to GitHub&amp;rsquo;s Actions and Workflows through annotated example YAML files. I wrote a custom YAML parser in Golang to generate the HTML pages.
+freedb.me Golang, sqlite Creating and maintaining databases for toy projects is a pain.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
       <link>https://macintoshpie.github.io/page/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ted.summer2@google.com (Ted)</author>
