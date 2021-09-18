@@ -1,3 +1,9 @@
 img {
     max-width: 300px;
+    padding: 5px;
+}
+
+#devetry-logo {
+    max-width: 1em;
+    display: inline;
 }

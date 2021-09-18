@@ -46,7 +46,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ted.summer2@google.com (Ted)</author>
       <guid>https://macintoshpie.github.io/page/about/</guid>
-      <description>I enjoy 🧗‍♂️, 🚲, 🍌, 🎶, doin&amp;rsquo; good. Checking out the 2017 solar eclipse at Cheoah Bald on the Appalachian Trail</description>
+      <description> I currently live in Denver Colorado I enjoy  🧗‍♂️ climbing 🚲 cycling 🍌 eating bananas ✏️ drawing badly 🎶 music trying to do good     </description>
     </item>
     
     <item>
@@ -55,10 +55,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ted.summer2@google.com (Ted)</author>
       <guid>https://macintoshpie.github.io/personal-projects/</guid>
-      <description>A 🏗 in the title indicates a work in progress.
+      <description>I like to build simple apps and tools. A 🏗 in the title indicates a work in progress.
 🏗 liztz Vue A lightweight note taking application centered around lists.
-🏗 GitHub Actions by Example GitHub Actions, Golang GitHub Actions by Example is an introduction to GitHub&amp;rsquo;s Actions and Workflows through annotated example YAML files. I wrote a custom YAML parser in Golang to generate the HTML pages.
-freedb.me Golang, sqlite Creating and maintaining databases for toy projects is a pain.</description>
+🏗 GitHub Actions by Example GitHub Actions, Golang GitHub Actions by Example is an introduction to GitHub&amp;rsquo;s Actions and Workflows through annotated example YAML files. I wrote a custom HTML generator in Golang to generate the documentation from special YAML files.</description>
     </item>
     
     <item>
@@ -70,9 +69,25 @@ freedb.me Golang, sqlite Creating and maintaining databases for toy projects is 
       <description>Education M.S. in Computer Science University of Chicago, 3.9 / 4.0, 2018-2019
 Relevant coursework:
 Algorithms C Programming Operating Systems Networks Parallel Programming Big Data Application Security Intro to Computer Systems Discrete Math B.S. double major in Neuroscience and Chinese Studies Furman University, 3.48 / 4.0, 2012-2016
-Work experience Graduate Practicum Student, Developer University of Chicago - Globus Labs
-January 2019 - Present
- Created Python package which automates the process of deploying, running, and optimizing arbitrary programs Used Bayesian Optimization to significantly reduce the amount of time required optimize tool configuration Created RESTful web service for running jobs with the package on AWS and storing results using Flask, Redis, Docker Compose and PostgreSQL  Software Developer Intern University of Chicago - Center for Translational Data Science</description>
+Work experience Senior Software Developer Devetry
+September 2019 - Present
+ Solving complex problems for clients with custom software and codebase improvements (Python, Django, Golang, JavaScript, XML Schema, PHP) Technical lead for the rebuilding of the Devetry website (Netlify, React)  Graduate Practicum Student, Developer University of Chicago - Globus Labs</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://macintoshpie.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ted.summer2@google.com (Ted)</author>
+      <guid>https://macintoshpie.github.io/talks/</guid>
+      <description>Server-sent Events Presented at: Devetry Lunch and Learn
+When: September 2020
+Description: A brief introduction to server-sent events, when to use them and when not to use them.
+Slides
+Schematron Presented at: IBPSA: Guidelines and Projects for Building Data Exchange Integrity
+When: August 2021
+Description: Introduction to Schematron, a language for validating XML documents.
+Slides</description>
     </item>
     
   </channel>
